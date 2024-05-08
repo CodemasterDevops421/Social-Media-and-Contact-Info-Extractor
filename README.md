@@ -1,6 +1,8 @@
 
 
 ```markdown
+# Contact Details Scraper
+
 ## Features
 
 Harness the power of our Contact Details Scraper to efficiently gather comprehensive contact details from any website, accelerating your lead generation efforts.
@@ -62,4 +64,3 @@ For a deeper dive into the features and capabilities of our scraper, visit our [
 - **Discord**: [Raise a Support ticket here](https://discord.gg/2WGj2PDmHb)
 - **Contact Email**: [codemasterdevops@gmail.com](mailto:codemasterdevops@gmail.com)
 ```
-
