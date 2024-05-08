@@ -1,4 +1,4 @@
-Here's the revised README.md content for your Contact Details Scraper:
+Here's the revised README.md for your Contact Details Scraper, incorporating all necessary updates and alignment with your provided links and preferences:
 
 ```markdown
 ## Features
@@ -48,9 +48,6 @@ Always ensure your scraping activities comply with legal standards and ethical g
 
 ### More Information
 For a deeper dive into the features and capabilities of our scraper, visit our [documentation](https://docs.apify.com/actors).
-```
-
-
 
 ## Connect With Us:
 
@@ -60,4 +57,9 @@ For a deeper dive into the features and capabilities of our scraper, visit our [
 - **Free Consultation**: [Book a free consultation call](https://tidycal.com/quicklifesolutions/free-consultation)
 - **More Tools**: [Explore our Apify actors](https://apify.com/dainty_screw)
 
+### Support:
+
+- **Discord**: [Raise a Support ticket here](https://discord.gg/2WGj2PDmHb)
+- **Contact Email**: [codemasterdevops@gmail.com](mailto:codemasterdevops@gmail.com)
+```
 
